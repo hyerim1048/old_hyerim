@@ -10,4 +10,4 @@ author: "Hyerim Kim"
 순이동율 = 유출 - 유입
 
 
-[image](https://drive.google.com/file/d/0B9jiOC5c7UhwRTFidk5BVkJYbGs/view?usp=sharing)!
+[image](https://hyerim1048.github.io/assets/seoul.png)!
