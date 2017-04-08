@@ -6,4 +6,5 @@ categories: ["design", "map", "data"]
 author: "Hyerim Kim"
 ---
 
-map visualization - seoul - moving rate
+서울시에서 유출되는 인구가 많은 지역을 표시했습니다.
+순이동율 = 유출 - 유입
