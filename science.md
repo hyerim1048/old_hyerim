@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: data science
-permalink: /data-science/
+title: Data science
+permalink: /science/
 tagline: "Humanity is overrated."
-category: "data-science"
+category: "science"
 ---
