@@ -2,7 +2,7 @@
 layout: post
 title:  "공간시각화"
 date:   2016-03-30 19:45:31 +0530
-categories: ["design", "map", "data"]
+categories: ["design", "map", "Data science"]
 author: "Hyerim Kim"
 ---
 
