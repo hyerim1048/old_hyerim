@@ -9,5 +9,5 @@ author: "Hyerim Kim"
 서울시에서 유출되는 인구가 많은 지역을 표시했습니다.
 순이동율 = 유출 - 유입
 
-<img src="https://github.com/hyerim1048/hyerim1048.github.io/blob/master/_includes/seoul.png"/>
+<img src="hyerim1048.github.io/_includes/seoul.png">
 
